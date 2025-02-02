@@ -23,7 +23,7 @@
 
 ---
 
-### 👉 Tech Stack Badges
+### Tech Stack Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
@@ -31,7 +31,7 @@
 
 ---
 
-## ✨ GitHub Streak
+## GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagun0singh&theme=dark" alt="GitHub Streak" />
 </p>
